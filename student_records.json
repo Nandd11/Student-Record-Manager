@@ -1,0 +1,42 @@
+{
+    "STU001": {
+        "id": "STU001",
+        "name": "Nand",
+        "age": 20,
+        "grade": "A",
+        "email": null,
+        "phone": null,
+        "created_at": "2025-12-19 15:21:38",
+        "updated_at": "2025-12-19 15:21:38"
+    },
+    "STU002": {
+        "id": "STU002",
+        "name": "dsds",
+        "age": 32,
+        "grade": "D",
+        "email": null,
+        "phone": null,
+        "created_at": "2025-12-19 15:30:41",
+        "updated_at": "2025-12-19 15:30:41"
+    },
+    "STU003": {
+        "id": "STU003",
+        "name": "N",
+        "age": 55,
+        "grade": "C",
+        "email": null,
+        "phone": null,
+        "created_at": "2025-12-19 15:36:29",
+        "updated_at": "2025-12-19 15:36:29"
+    },
+    "STU004": {
+        "id": "STU004",
+        "name": "Patel",
+        "age": 19,
+        "grade": "C",
+        "email": "ndjend@.com",
+        "phone": "849384928",
+        "created_at": "2025-12-19 15:43:38",
+        "updated_at": "2025-12-19 15:43:38"
+    }
+}
